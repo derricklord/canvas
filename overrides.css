@@ -397,10 +397,10 @@ input[type="color"]:focus, .uneditable-input:focus {
 }
 
 code {
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospac;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 12px;
   color: #0086b3;
-  background-color: white;
+  background-color: #fff;
   border: 0px;
   padding: 0px;
 }
