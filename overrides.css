@@ -405,3 +405,9 @@ code {
   border: 0px;
   padding: 0px;
 }
+
+.ig-list .ig-row .ellipses {
+    overflow: visible;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
